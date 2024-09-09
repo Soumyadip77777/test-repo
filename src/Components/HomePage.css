@@ -1,0 +1,10 @@
+::-webkit-scrollbar{
+
+    width: 5px;
+}
+
+ ::-webkit-scrollbar-{
+    
+    background-color: gray;
+
+}
